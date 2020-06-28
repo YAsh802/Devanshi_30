@@ -17,3 +17,20 @@
 	color: white;
 }
 
+#dt
+{
+	list-style-type: black-circle;
+}
+
+.nav-item
+{
+	font-color: black;
+	padding-right: 10px;
+}
+
+.nav-link
+{
+	color: black;
+}
+
+
