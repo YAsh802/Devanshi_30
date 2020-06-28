@@ -8,4 +8,7 @@
 	padding-right: 10%;
 }
 
-
+.List
+{
+	list-style-type: black-circle;
+}
